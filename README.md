@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **savva.romanov99@gmail.com**
 
-- ⚡ Fun fact **I started coding at 22**
+- ⚡ Fun fact **I am average ThinkPad Enjoyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

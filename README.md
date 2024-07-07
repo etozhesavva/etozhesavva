@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/etozhesavva" target="blank"><img src="https://img.shields.io/twitter/follow/etozhesavva?logo=twitter&style=for-the-badge" alt="etozhesavva" /></a> </p>
 
-- 🔭 I’m currently working on **DnD Character Sheet Bot**
+- 🔭 I’m currently working on **RenPy Visual Novel**
 
 - 🌱 I’m currently learning **Python, Django**
 
